@@ -1,4 +1,6 @@
 # ITCS424_Lab-Exercise
+6488052 Sasasuang Pattanakitjaroenchai
+
 
 Output of this code 
 
